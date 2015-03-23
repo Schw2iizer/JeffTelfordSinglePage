@@ -73,7 +73,7 @@ a:hover {
 .bl-main > section:first-child {
 	top: 0;
 	left: 0;
-	background: url('../images/back2.jpg') no-repeat; 
+	background: url('../images/5220.png') no-repeat; 
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
@@ -83,7 +83,7 @@ a:hover {
 .bl-main > section:nth-child(2) {
 	top: 0;
 	left: 50%;
-	background: url('../images/back3.jpg') no-repeat; 
+	background: url('../images/angular.png') no-repeat; 
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
@@ -93,17 +93,18 @@ a:hover {
 .bl-main > section:nth-child(3) {
 	top: 50%;
 	left: 0;
-	background: url('../images/back4.jpg') no-repeat; 
+	background: url('../images/mean05.png') no-repeat; 
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
 	  background-size: cover;
+
 }
 
 .bl-main > section:nth-child(4) {
 	top: 50%;
 	left: 50%;
-	background: url('../images/back5.jpg') no-repeat; 
+	background: url('../images/back5.png') no-repeat; 
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
@@ -450,7 +451,7 @@ div.bl-panel-items > div.bl-hide-current-work {
 	background: #2c2c2c;
 }
 .bl-main > section:nth-child(3).bl-expand {
-	background: #ee6557;
+	background: #2c2c2c;
 }
 .bl-main > section:nth-child(4).bl-expand {
 	background: #bfbfbf;
